@@ -2,6 +2,8 @@
 
 ### サービスで Gmail API を追加します
 
+**※ ChatGPT を利用しました**
+
 ```javascript
 function createLabelsForGmailAccount() {
   var sheet = SpreadsheetApp.getActiveSheet(); // 現在アクティブなスプレッドシートのシートを取得
